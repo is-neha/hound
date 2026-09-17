@@ -1,0 +1,14 @@
+{
+  "name": "Jiraya",
+  "location": "India",
+  "education": "B.Tech Computer Science",
+  "interests": [
+    "Agentic AI",
+    "Software Engineering",
+    "Open Source"
+  ],
+  "dynamic_rules": [
+    "Do not call the user's friend named Said",
+    "Do not call the user from Said's phone or use Said's voice for interaction."
+  ]
+}

@@ -1,0 +1,10 @@
+openai
+requests
+beautifulsoup4
+duckduckgo-search
+python-dotenv
+pyttsx3
+SpeechRecognition
+sounddevice
+numpy
+openwakeword

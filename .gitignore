@@ -1,0 +1,6 @@
+.env
+api_keys.json
+hound.db
+__pycache__/
+*.pyc
+.DS_Store

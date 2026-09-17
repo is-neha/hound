@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Software Engineering Intern - Microsoft",
+        "source": "Simulated Job Board",
+        "link": "https://careers.microsoft.com/intern",
+        "description": "Join our Azure team for a 12-week summer internship. Requirements: CS major, 3.0 GPA.",
+        "deadline": "Unknown"
+    },
+    {
+        "title": "Global Agentic AI Hackathon",
+        "source": "Simulated Job Board",
+        "link": "https://devpost.com/ai-hackathon",
+        "description": "Build the future of autonomous agents. Virtual hackathon. Deadline: October 15th.",
+        "deadline": "Unknown"
+    }
+]
